@@ -1,0 +1,29 @@
+.title {
+    background-color: #2c323c;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/usa_avengers_herob_characters_n_f5fd3ec6.jpeg?region=0%2C0%2C1600%2C552);
+    background-repeat: repeat;
+    background-position: 58px 118px;
+    color: #fff;
+    min-height: 400px;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+}
+
+.first {
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 4rem;
+  float:left;
+  text-align:left;
+  font: 500 40px/1 DINNextW01-CondensedMed,Trebuchet MS,Helvetica,Arial,sans-serif;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.secondary {
+  float:left;
+  text-align:left;
+  font:  500 18px/24px DIN Next W01 Regular,Trebuchet MS,Helvetica,Arial,sans-serif;
+}
