@@ -20,10 +20,12 @@
   line-height: 1;
   letter-spacing: 2px;
   text-transform: uppercase;
+  width:100%;
 }
 
 .secondary {
   float:left;
   text-align:left;
-  font:  500 18px/24px DIN Next W01 Regular,Trebuchet MS,Helvetica,Arial,sans-serif;
+  font:  500 28px/24px DIN Next W01 Regular,Trebuchet MS,Helvetica,Arial,sans-serif;
+  line-height: 1.2;
 }

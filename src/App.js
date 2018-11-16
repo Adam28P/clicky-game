@@ -77,7 +77,7 @@ class App extends Component {
         />
 
         <Title>
-        <h1 className="first">Clicky Game: Marvel Edition</h1>
+        <h1 className="first">Clicky Game: Marvel Edition</h1><br />
         <h1 className="secondary">Click on an image to earn points, <br />but don't click on any more than once!</h1>
         </Title>
 
