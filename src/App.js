@@ -73,7 +73,6 @@ class App extends Component {
           title="Clicky Game: Marvel Edition"
           score={this.state.currentScore}
           topScore={this.state.topScore}
-          rightWrong={this.state.rightWrong}
         />
 
         <Title>

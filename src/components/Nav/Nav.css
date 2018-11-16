@@ -1,5 +1,5 @@
 .navbar{
-  background: #5133a4;
+  background:white;
   min-height: 100px;
   position: fixed;
   width: 100%;
@@ -20,7 +20,7 @@
 li{
   display: inline-block;
     padding: 26px 0;
-    width: 33.3%;
+    width: 100%;
     text-align: center;
     color:black;
 }
